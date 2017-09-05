@@ -3,7 +3,7 @@ layout: post
 title: Week 1 CS 373
 ---
 
-#### What are my expectations of the class?
+###### What are my expectations of the class?
 
 Glenn Downing's Software Enginnering is a course that will allow students to experience the lifecycle of software development: designing, implementing and testing. I will hopefully learn this lifecycle and become familiar with everyday technologies that developers use in order to create better, more robust code.
 
